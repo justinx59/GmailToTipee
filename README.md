@@ -20,7 +20,7 @@
 3. mariepeter974           |Diablox8 | 08/08/1998 | 17:30h -<br>
 4. bobpetee7               |Diablox8 | 08/08/1998 | 17:35h -<br>
 5. tp0446774               |Diablox8 | 08/08/1998 | 17:41h -<br>
-6. justinpeter384          |Diablox8 | 08/08/1998 | 17:46h-<br>
-7. marinepeter15           |Diablox8 | 08/08/1998 | 17:52h-<br>
-8. rp5561483               |Diablox8 | 08/08/1998 | -<br>
+6. justinpeter384          |Diablox8 | 08/08/1998 | 17:46h -<br>
+7. marinepeter15           |Diablox8 | 08/08/1998 | 17:52h -<br>
+8. rp5561483               |Diablox8 | 08/08/1998 | 17:58h -<br>
 ------------------------------------------------
