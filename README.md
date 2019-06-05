@@ -15,7 +15,7 @@
   <center>
   <h1> Thomas: </h1>
   </center><br>
-1. PierreJack1234567       |Diablox8 | 09/09/1999 -<br>
+1. PierreJack1234567       |Diablox8 | 09/09/1999 17:14h -<br>
 2. JohnPeter1523           |Diablox8 | 08/08/1998 -<br>
 3. mariepeter974           |Diablox8 | 08/08/1998 -<br>
 4. bobpetee7               |Diablox8 | 08/08/1998 -<br>
